@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.trackform {
+  width:170px;;
+  margin: auto;
+}
+
+.trackinput {
+    margin-top: 20px;
+}
+
+.track {
+  width: 750px;
+  margin: auto;
+  margin-top: 30px;
+}
+
+tr, th {
+  text-align: center;
+}
