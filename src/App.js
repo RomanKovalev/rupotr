@@ -43,6 +43,9 @@ search() {
         <Trackhistory
           trackinfo={this.state.trackinfo}
         />
+        <p>Треки только почты РФ (например, CJ472809439US или LZ551260745US).</p>
+        <p>Исходники (React): <a href="https://bitbucket.org/KovalevRoman/rupotr/src/master/">на BitBucket</a></p>
+        <p>Лицензия: GNU GPL.</p>
       </div>
     );
   }
